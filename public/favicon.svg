@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#1c1917"/>
+  <g>
+    <!-- barber pole stripes -->
+    <rect x="25" y="12" width="14" height="40" rx="7" fill="#f5f0e6"/>
+    <path d="M25 18 L39 12 L39 20 L25 26 Z" fill="#d97706"/>
+    <path d="M25 34 L39 28 L39 36 L25 42 Z" fill="#d97706"/>
+    <path d="M25 50 L39 44 L39 49 a7 7 0 0 1 -14 0 Z" fill="#d97706"/>
+  </g>
+  <circle cx="32" cy="57" r="3.4" fill="#d97706"/>
+  <circle cx="32" cy="7" r="3.4" fill="#d97706"/>
+</svg>
